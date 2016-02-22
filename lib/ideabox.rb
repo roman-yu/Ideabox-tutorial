@@ -1,4 +1,3 @@
+require 'ideabox/idea'
 module Ideabox
-  def self.answer
-  end
 end
